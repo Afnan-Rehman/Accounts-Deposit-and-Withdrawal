@@ -1,24 +1,27 @@
 ## Synopsis
 
-Practical Test 4 of Fundamentals of Programming COMP1005/5005 
+Account Deposit and Withdrawal
 
 ## Contents
-README - readme file for Practical Test 4
+README - readme file for Practical 4
 
 
 
-./PractTest4:
+./Files:
 
 account.py testAccounts.py
 
-I have made changes in testAccounts.py and created accounts to make withdrawls and deposits.
+
+Description:
+
+I have made changes in testAccounts.py, defined new classes and added exception and error handling mechanism and linked it with accounts.py where user can create new accounts, make deposits and keep record of the withdrawals.
 
 
-
+This was created just for learning purposes.
 
 
 ## Dependencies  
 none
 
 ## Version information
-<02/06/2023> - PracTest4.py  program
+<02/06/2023> -  program
