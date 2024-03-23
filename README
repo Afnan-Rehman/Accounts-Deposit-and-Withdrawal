@@ -14,7 +14,8 @@ account.py testAccounts.py
 
 Description:
 
-I have made changes in testAccounts.py, defined new classes and added exception and error handling mechanism and linked it with accounts.py where user can create new accounts, make deposits and keep record of the withdrawals.
+I have made changes in testAccounts.py, defined new classes and added exception and error handling mechanism in accounts.py and linked it with 
+where user can create new accounts, make deposits and keep record of the withdrawals.
 
 
 This was created just for learning purposes.
