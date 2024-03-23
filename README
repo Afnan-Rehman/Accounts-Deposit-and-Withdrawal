@@ -1,0 +1,24 @@
+## Synopsis
+
+Practical Test 4 of Fundamentals of Programming COMP1005/5005 
+
+## Contents
+README - readme file for Practical Test 4
+
+
+
+./PractTest4:
+
+account.py testAccounts.py
+
+I have made changes in testAccounts.py and created accounts to make withdrawls and deposits.
+
+
+
+
+
+## Dependencies  
+none
+
+## Version information
+<02/06/2023> - PracTest4.py  program
